@@ -1,0 +1,1 @@
+select first_name, count(first_name) from employees where first_name="Mark"
